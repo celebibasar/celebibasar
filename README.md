@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celebibasar&show_icons=true&locale=en" alt="celebibasar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celebibasar&" alt="celebibasar" /></p>
+
+![snake gif](https://github.com/celebibasar/celebibasar/blob/output/github-contribution-grid-snake.gif)
