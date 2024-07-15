@@ -28,8 +28,6 @@
 <div align="center">
 
 ## GitHub Stats
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celebibasar)](https://github.com/celebibasar/github-readme-stats)
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=celebibasar)](https://git.io/streak-stats)
   
