@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celebibasar&label=Profile%20views&color=0e75b6&style=flat" alt="celebibasar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celebibasar" alt="celebibasar" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@basarcelebi02](https://medium.com/@basarcelebi02)
 
 - 💬 Ask me about **android, jetpack compose and .NET MAUI**
