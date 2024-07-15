@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Başar Çelebi</h1>
+
 <h3 align="center">I am a student at Kadir Has University. Also, I am a facilitator at Google Developer Student Clubs Turkey & Azerbaijan & North Cyprus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celebibasar&label=Profile%20views&color=0e75b6&style=flat" alt="celebibasar" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@basarcelebi02](https://medium.com/@basarcelebi02)
+- 💬 I'm working on **Android and Jetpack Compose**
 
-- 💬 Ask me about **android, jetpack compose and .NET MAUI**
+- 💬 Giving speech and education about **Kotlin and Jetpack Compose**
 
 - 📫 How to reach me **basarcelebi02@gmail.com**
 
-- ⚡ Fun fact **I think I am funny person. You can talk with me anything about technology.**
+- ⚡ Fun fact **I think I am a funny person. You can talk to me about anything in life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celebibasar&show_icons=true&locale=en" alt="celebibasar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celebibasar&" alt="celebibasar" /></p>
-
-![snake gif](https://github.com/celebibasar/celebibasar/blob/output/github-contribution-grid-snake.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/celebibasar/celebibasar/output/github-contribution-grid-snake-dark.svg">
