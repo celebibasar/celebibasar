@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Başar Çelebi</h1>
 
-<h3 align="center">Working as an Android Developer at Migros Sanalmarket & Moneyfinans</h3>
+<h3 align="center">Working as an Android Developer at StartupHeroes, outsourced to MigrosONE for the Migros Sanal Market and Moneyfinans projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celebibasar&label=Profile%20views&color=0e75b6&style=flat" alt="celebibasar" /> </p>
 
